@@ -1,3 +1,13 @@
+# Eclipse Directories and Files
+.project
+.classpath
+/.settings
+
+# Generated Directories and Files
+/target
+/build
+/bin
+/.gradle
 *.class
 
 # Mobile Tools for Java (J2ME)
